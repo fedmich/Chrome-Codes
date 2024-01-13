@@ -1,0 +1,10 @@
+, "web_accessible_resources" : [		
+		{
+		"resources": [ "img/*.png", "css/*.css"],
+ 		"matches": [],
+ 		"extension_ids": []
+		}
+		
+	]
+ 
+    
